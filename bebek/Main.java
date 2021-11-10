@@ -3,7 +3,7 @@ class Main {
         Kucing kucing = new Nyaaa();
 
         Bebek meowAdapter = new NyaaaAdapter(kucing);
-        System.out.println("Skuek Kwek!!!");
+        System.out.println("Webek!!!Webek!!!");
         meowAdapter.kwek();
     }
 }
